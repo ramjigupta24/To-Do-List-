@@ -4,8 +4,8 @@
 }
 
 body {
-    height: 100px;
-    width: 100px;
+    height: 100vh;
+    width: 100vw;
     background: antiquewhite;
     display: flex;
     justify-content: center;
